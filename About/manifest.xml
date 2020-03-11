@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+    <identifier>ruyan.vents</identifier>
+    <version>1.1.0.0</version>
+    <dependencies>
+        <li>Harmony</li>
+    </dependencies>
+    <incompatibleWith>
+    </incompatibleWith>
+    <loadBefore>
+    </loadBefore>
+    <loadAfter>
+        <li>Harmony</li>
+    </loadAfter>
+    <suggests>
+        <li>BetterCoolers</li>
+    </suggests>
+    <showCrossPromotions>true</showCrossPromotions>
+    <manifestUri>https://ruyanve.github.io/BetterVents/Manifest.xml</manifestUri>
+    <downloadUri>https://github.com/ruyanve/BetterVents/releases</downloadUri>
+</Manifest>
